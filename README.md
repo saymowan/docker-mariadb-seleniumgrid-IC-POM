@@ -106,24 +106,17 @@ Para o primeiro acesso ao Mantis, será necessário configurar o banco de dados 
   
 
 | Variável | Valor |
-
 |-----|------|
-
 | Type of Database | MySQL Improved |
-
 | Hostname (for Database Server) | mantis_db_1 |
-
 | Username (for Database) | mantisbt |
-
 | Password (for Database) | mantisbt |
-
 | Database name (for Database) | bugtracker |
-
 | Admin Username (to create Database if required) | root |
-
 | Admin Password (to create Database if required) | root |
 
   
+
 
 Após preencher, clicar em **Login/Continue** e aguardar o processamento (demora cerca de 5 minutos).
 
