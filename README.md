@@ -2,6 +2,11 @@
 # Mantis - Mariadb + Docker + SeleniumGrid/Node + Integração Contínua + POM
 
   
+  
+
+### ⚠️⚠️PROJETO DESCONTINUADO, UTILIZE ESTE TUTORIAL - https://github.com/saymowan/Mantis4Testers-Docker
+
+
 
 Este projeto foi criado com o intuito de praticar padrões e metas de um projeto de automação de UI, o mesmo foi desenvolvido em C#.
 
